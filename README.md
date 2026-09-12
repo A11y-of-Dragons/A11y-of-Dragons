@@ -20,7 +20,7 @@ I am a Junior Computer Science Major at Grace College, who is enthusiastic to le
 - Guitar/making music 🎧🎸
 - Hanging out with friends out in nature (my favorite state park is Turkey Run) 🌿🐾
 - Drawing 🖊️✏️📓
-- Playing with my cat 🐱
+- Playing with my cat Remah 🐱
 ## Want to get to know me more or get in contact? 
 - [My HandShake](https://grace.joinhandshake.com/profiles/8etgrn)
 - [My LinkedIn](https://www.linkedin.com/in/lucinda-redman-2874773a9/)
