@@ -15,4 +15,4 @@ I am a Junior Computer Science Major at Grace College, who is enthusiastic to le
 - [My HandShake](https://grace.joinhandshake.com/profiles/8etgrn)
 - [My LinkedIn](https://www.linkedin.com/in/lucinda-redman-2874773a9/)
 
-[![github_dark](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![README.quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)](https://github.com/piyushsuthar/github-readme-quotes)
