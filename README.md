@@ -6,12 +6,18 @@ I am a Junior Computer Science Major at Grace College, who is enthusiastic to le
 - C++
 - Basic troubleshooting
 - Learning HTML, Git/github
+- VS code
 ## Goals
 1. Learn Java and JavaScript
 2. Build a portfolio website
-3. Expand my knowledge of technology
-
-### Want to get to know me more or get in contact? 
+3. Expand my knowledge of technology and grow my skills as a coder
+## Do we share any hobbies? 
+- Playing Dungeons and Dragons 🦄🐲🎲
+- Guitar/making music 🎧🎸
+- Hanging out with friends out in nature (my favorite state park is Turkey Run) 🌿🐾
+- Drawing 🖊️✏️📓
+- Playing with my cat 🐱
+## Want to get to know me more or get in contact? 
 - [My HandShake](https://grace.joinhandshake.com/profiles/8etgrn)
 - [My LinkedIn](https://www.linkedin.com/in/lucinda-redman-2874773a9/)
 
