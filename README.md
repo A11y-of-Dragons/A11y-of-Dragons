@@ -1,16 +1,18 @@
 # Hi there, my name is Lucinda👋
 I am a Junior Computer Science Major at Grace College, who is enthusiastic to learn and grow in the IT/technology field! I do not have much experience, but I am eager to learn and want to better myself for the future. 
 ### what am I learning in school right now? 
-- Calc 1 and a corresponding Lab
-- 1st year computer science seminar (started the major later than normal)
+- Calculus II
+- Algorithm Analysis
 - Modern Technologies
 - Website Development
 ## Languages/Skills
 - Python
 - C++
-- Basic troubleshooting
-- Learning HTML, Git/github
+- Basic IT troubleshooting
+- Git/github
 - VS code
+- JavaScript
+- HTML
 ## Goals
 1. Learn Java and JavaScript
 2. Build a portfolio website
